@@ -1,0 +1,7 @@
+# Request
+# (no fields needed)
+
+---
+# Response
+# A list of zero or more object locations
+bv_msgs/ObjectLocations[] locations
