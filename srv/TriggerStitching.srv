@@ -1,0 +1,6 @@
+# Request
+# (no fields needed - triggers stitching and blocks until complete)
+
+---
+# Response
+bool success
