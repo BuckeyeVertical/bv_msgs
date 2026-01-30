@@ -1,0 +1,9 @@
+# Request (empty - vision node captures fresh frame and localizes)
+
+---
+# Response
+bool success
+float64 latitude
+float64 longitude
+float64 altitude
+int32 class_id

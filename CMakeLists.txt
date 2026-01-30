@@ -19,6 +19,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/ObjectLocations.msg"
   "srv/GetObjectLocations.srv"
   "srv/TriggerStitching.srv"
+  "srv/LocalizeObject.srv"
   DEPENDENCIES geometry_msgs std_msgs # Add packages that above messages depend on, in this case geometry_msgs for Sphere.msg
 )
 
