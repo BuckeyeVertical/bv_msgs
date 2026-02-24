@@ -1,5 +1,5 @@
-# Request (empty - vision node captures fresh frame and localizes)
-
+# Request
+int32 target_class_id  # COCO class to localize; -1 = return first detection
 ---
 # Response
 bool success
