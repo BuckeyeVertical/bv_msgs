@@ -1,5 +1,5 @@
 # Request
-int32 target_class_id  # COCO class to localize; -1 = return first detection
+int32 target_class_id  # Semantic class to localize; -1 = return first detection
 ---
 # Response
 bool success
